@@ -230,9 +230,9 @@ A documentação ficará disponível em: `https://<seu-usuario>.github.io/<seu-r
 
 | Nome | GitHub |
 |---|---|
-| Nome do Aluno 1 | [@usuario1](https://github.com/usuario1) |
-| Nome do Aluno 2 | [@usuario2](https://github.com/usuario2) |
-| Nome do Aluno 3 | [@usuario3](https://github.com/usuario3) |
+| João Pereira | [@joojpereira](https://github.com/joojpereira) |
+| Bruno Sabino | [@SabinexX](https://github.com/SabinexX) |
+| Filipe Jeremias | [@oEngenh3iro](https://github.com/oEngenh3iro) |
 
 ---
 
