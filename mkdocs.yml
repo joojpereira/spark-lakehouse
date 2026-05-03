@@ -1,0 +1,48 @@
+site_name: Apache Spark com Delta Lake e Apache Iceberg
+site_description: Trabalho de Pesquisa - Arquitetura de Dados
+site_author: Grupo Spark Lakehouse
+site_url: https://<seu-usuario>.github.io/<seu-repo>/
+
+repo_name: <seu-usuario>/<seu-repo>
+repo_url: https://github.com/<seu-usuario>/<seu-repo>
+
+theme:
+  name: material
+  language: pt
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Modo escuro
+    - scheme: slate
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Modo claro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - tables
+
+nav:
+  - Início: index.md
+  - Apache Spark: spark.md
+  - Delta Lake: delta.md
+  - Apache Iceberg: iceberg.md
